@@ -1,4 +1,4 @@
-"name","ring","quadrant","isNew","description"
+name,ring,quadrant,isNew,description
 "Eclipse Tycho","adopt","tools",FALSE,"Building Eclipse plug-ins with Apache Maven"
 "OSGi","hold","platforms",FALSE,"OSGi (Open Service Gateway initiative) is a specification that aims to remedy the lack of a module system for Java, allowing for dynamic reloading of components."
 "Gradle","adopt","tools",FALSE,"Build automation tool focused on flexibility and performance. Language-based build tools like Gradle and Rake continue to offer finer-grained abstractions and more flexibility long term than XML and plug-in based tools like Ant and Maven. This allows them to grow gracefully as projects become more complex."
