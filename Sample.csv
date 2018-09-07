@@ -2,4 +2,4 @@ name,ring,quadrant,isNew,description
 "Eclipse Tycho",adopt,tools,FALSE,"Building Eclipse plug-ins with Apache Maven"
 "Gradle",adopt,tools,FALSE,"Build automation tool focused on flexibility and performance. Language-based build tools like Gradle and Rake continue to offer finer-grained abstractions and more flexibility long term than XML and plug-in based tools like Ant and Maven. This allows them to grow gracefully as projects become more complex."
 "Git",assess,tools,TRUE,"Git is a well architected, high performance implementation of distributed version control."
-"Oracle PL/SQL",hold,languages & frameworks,FALSE,"PL/SQL lack expressiveness, is difficult to test, and discourages clean modular design. You should only consider stored procedures executing within the database engine in exceptional circumstances, where there is a proven performance issue."
+"Oracle PL/SQL",hold,"languages & frameworks",FALSE,"PL/SQL lack expressiveness, is difficult to test, and discourages clean modular design. You should only consider stored procedures executing within the database engine in exceptional circumstances, where there is a proven performance issue."
